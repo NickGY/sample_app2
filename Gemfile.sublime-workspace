@@ -1,0 +1,350 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"redirect",
+				"redirect_to"
+			],
+			[
+				"ite",
+				"item_path"
+			],
+			[
+				"number",
+				"number2"
+			],
+			[
+				"co",
+				"correct_answer"
+			],
+			[
+				"b",
+				"body_builder3"
+			],
+			[
+				"bo",
+				"body_builder3"
+			],
+			[
+				"bod",
+				"body_builder2"
+			],
+			[
+				"col",
+				"color_name"
+			],
+			[
+				"sklonen",
+				"sklonenie"
+			],
+			[
+				"t",
+				"to_s"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/nick/workspace/sample/sample_app2/app/models/user.rb",
+		"/home/nick/workspace/sample/sample_app2/test/controllers/users_controller_test.rb",
+		"/home/nick/workspace/sample/sample_app2/test/integration/users_edit_test.rb",
+		"/home/nick/workspace/sample/sample_app2/app/helpers/sessions_helper.rb",
+		"/home/nick/workspace/sample/sample_app2/test/integration/users_login_test.rb",
+		"/home/nick/workspace/sample/sample_app2/app/controllers/sessions_controller.rb",
+		"/home/nick/workspace/sample/sample_app2/app/controllers/users_controller.rb",
+		"/home/nick/workspace/sample/sample_app2/test/helpers/sessions_helper_test.rb",
+		"/home/nick/workspace/sample/sample_app2/app/views/layouts/_header.html.erb",
+		"/home/nick/workspace/sample/sample_app2/config/routes.rb",
+		"/home/nick/workspace/sample/sample_app2/app/views/users/edit.html.erb",
+		"/home/nick/workspace/sample/sample_app2/test/test_helper.rb",
+		"/home/nick/workspace/sample/sample_app2/app/views/sessions/new.html.erb",
+		"/home/nick/Documents/Html/my-first-webpage.html",
+		"/home/nick/workspace/sample/sample_app2/test/controllers/sessions_controller_test.rb",
+		"/home/nick/workspace/sample/sample_app2/app/javascript/packs/application.js",
+		"/home/nick/workspace/sample/sample_app2/test/fixtures/users.yml",
+		"/home/nick/workspace/sample/sample_app2/config/webpack/environment.js",
+		"/home/nick/workspace/sample/sample_app2/test/integration/users_signup_test.rb",
+		"/home/nick/workspace/sample/sample_app2/app/controllers/application_controller.rb",
+		"/home/nick/workspace/sample/sample_app2/app/views/layouts/application.html.erb",
+		"/home/nick/workspace/sample/sample_app2/config/environments/production.rb",
+		"/home/nick/workspace/sample/sample_app2/app/assets/stylesheets/custom.scss",
+		"/home/nick/workspace/sample/sample_app2/test/models/user_test.rb",
+		"/home/nick/workspace/sample/sample_app2/app/views/users/new.html.erb",
+		"/home/nick/workspace/sample/sample_app2/app/views/shared/_error_messages.html.erb",
+		"/home/nick/workspace/sample/sample_app2/app/views/users/show.html.erb",
+		"/home/nick/workspace/sample/sample_app2/app/helpers/users_helper.rb",
+		"/home/nick/workspace/sample/sample_app2/db/migrate/20210723095954_add_index_to_users_email.rb",
+		"/home/nick/workspace/sample/sample_app2/db/schema.rb",
+		"/home/nick/workspace/sample/sample_app2/app/views/layouts/_footer.html.erb",
+		"/home/nick/workspace/sample/sample_app2/db/migrate/20210722114345_add_index_to_users_email.rb",
+		"/home/nick/workspace/sample/sample_app2/app/views/static_pages/home.html.erb",
+		"/home/nick/workspace/sample/sample_app2/test/controllers/static_pages_controller_test.rb",
+		"/home/nick/workspace/sample/sample_app2/config/initializers/assets.rb",
+		"/home/nick/workspace/sample/sample_app2/app/views/layouts/_shim.html.erb",
+		"/home/nick/workspace/sample/sample_app2/example_user.rb",
+		"/home/nick/workspace/sample/sample_app2/Guardfile",
+		"/home/nick/workspace/sample/sample_app2/app/helpers/application_helper.rb",
+		"/home/nick/workspace/sample_app/db/seeds.rb",
+		"/home/nick/workspace/sample_app/test/fixtures/users.yml",
+		"/home/nick/workspace/sample_app/app/mailers/user_mailer.rb",
+		"/home/nick/workspace/sample_app/app/views/user_mailer/account_activation.text.erb",
+		"/home/nick/workspace/sample_app/app/views/user_mailer/account_activation.html.erb",
+		"/home/nick/workspace/sample_app/app/controllers/sessions_controller.rb",
+		"/home/nick/workspace/sample_app/db/migrate/20210703110139_add_activation_to_users.rb",
+		"/home/nick/workspace/sample_app/config/environments/development.rb",
+		"/home/nick/workspace/sample_app/test/mailers/previews/user_mailer_preview.rb",
+		"/home/nick/workspace/sample_app/config/routes.rb",
+		"/home/nick/workspace/sample_app/app/views/layouts/_header.html.erb",
+		"/home/nick/workspace/sample_app/app/assets/stylesheets/application.css",
+		"/home/nick/proekt/my_store/app/models/cart.rb",
+		"/home/nick/proekt/my_store/app/models/user.rb",
+		"/home/nick/proekt/my_store/app/models/order.rb",
+		"/home/nick/proekt/my_store/app/controllers/items_controller.rb",
+		"/home/nick/proekt/my_store/db/migrate/20210621101151_email.rb",
+		"/home/nick/proekt/my_store/db/migrate/20210621101907_password_confirmation.rb",
+		"/home/nick/proekt/my_store/db/migrate/20210620081703_create_carts.rb",
+		"/home/nick/proekt/my_store/db/migrate/20210620094013_create_orders.rb",
+		"/home/nick/proekt/my_store/db/migrate/20210620081632_create_users.rb",
+		"/home/nick/proekt/my_store/app/controllers/application_controller.rb",
+		"/home/nick/proekt/my_store/config/routes.rb",
+		"/home/nick/proekt/my_store/db/migrate/20210620031004_add_votes_count_to_item.rb",
+		"/home/nick/proekt/my_store/Gemfile",
+		"/home/nick/proekt/my_store/public/403.html",
+		"/home/nick/proekt/my_store/public/packs/403.html",
+		"/home/nick/proekt/my_store/app/views/items/index.html.erb",
+		"/home/nick/proekt/my_store/app/views/items/edit.html.erb",
+		"/home/nick/proekt/my_store/db/schema.rb",
+		"/home/nick/proekt/my_store/app/views/items/create.html.erb",
+		"/home/nick/workspace/sample_app/test/models/user_test.rb",
+		"/home/nick/workspace/sample_app/app/models/user.rb",
+		"/home/nick/workspace/sample_app/app/views/layouts/application.html.erb",
+		"/home/nick/workspace/sample_app/app/views/users/show.html.erb",
+		"/home/nick/workspace/sample_app/app/helpers/users_helper.rb",
+		"/home/nick/workspace/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/home/nick/workspace/sample_app/db/migrate/20210610131914_add_index_to_users_email.rb",
+		"/home/nick/workspace/sample_app/db/migrate/20210609091025_create_users.rb",
+		"/home/nick/workspace/sample_app/app/controllers/users_controller.rb",
+		"/home/nick/proekt/my_store/db/migrate/20210606063645_add_description_column_to_items.rb",
+		"/home/nick/workspace/sample_app/app/views/static_pages/help.html.erb",
+		"/home/nick/workspace/sample_app/test/test_helper.rb",
+		"/home/nick/workspace/sample_app/test/controllers/static_pages_controller_test.rb",
+		"/home/nick/workspace/sample_app/app/helpers/application_helper.rb",
+		"/home/nick/workspace/sample_app/example_user.rb",
+		"/home/nick/workspace/sample_app/app/views/static_pages/home.html.erb",
+		"/home/nick/workspace/sample_app/app/views/static_pages/about.html.erb",
+		"/home/nick/workspace/sample_app/Gemfile.lock",
+		"/home/nick/workspace/sample_app/Gemfile",
+		"/home/nick/workspace/sample_app/app/controllers/static_pages_controller.rb",
+		"/home/nick/workspace/toy_app/app/controllers/application_controller.rb",
+		"/home/nick/workspace/toy_app/config/routes.rb",
+		"/home/nick/workspace/toy_app/app/models/user.rb",
+		"/home/nick/workspace/toy_app/app/models/micropost.rb",
+		"/home/nick/workspace/toy_app/Gemfile",
+		"/home/nick/workspace/hello_app/Gemfile",
+		"/home/nick/workspace/hello_app/app/models/user.rb",
+		"/home/nick/workspace/hello_app/db/migrate/20210525181701_create_posts.rb",
+		"/home/nick/workspace/hello_app/app/views/posts/index.html.erb",
+		"/home/nick/workspace/hello_app/app/controllers/posts_controller.rb",
+		"/home/nick/workspace/hello_app/config/routes.rb",
+		"/home/nick/workspace/hello_app/README.rdoc",
+		"/home/nick/workspace/hello_app/Gemfile.lock",
+		"/home/nick/lesson15/fileinfo.rb",
+		"/home/nick/lesson151/victorina.rb",
+		"/home/nick/lesson15n/sendmail.rb",
+		"/home/nick/lesson15n/math.rb",
+		"/home/nick/lesson15n/translator.rb",
+		"/home/nick/lesson15n/mail2.rb",
+		"/home/nick/lesson12/game.rb",
+		"/home/nick/lesson12/result_printer.rb",
+		"/home/nick/lesson14/viseletsa3.rb",
+		"/home/nick/lesson14/result_printer.rb",
+		"/home/nick/lesson13/class.rb",
+		"/home/nick/lesson13/aforizm.rb",
+		"/home/nick/lesson14/game.rb",
+		"/home/nick/lesson14/viseletsa.rb",
+		"/home/nick/lesson12/viseletsa.rb",
+		"/home/nick/lesson11/person.rb",
+		"/home/nick/lesson11/person1.rb",
+		"/home/nick/lesson11/cameleo.rb",
+		"/home/nick/lesson11/main.rb",
+		"/home/nick/lesson11/BodyBuilder2.rb",
+		"/home/nick/lesson11/mainbody.rb",
+		"/home/nick/lesson11/class2.rb",
+		"/home/nick/lesson11/class.rb",
+		"/home/nick/lesson10/viseletsa.rb",
+		"/home/nick/lesson10/methods.rb"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Gemfile.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"homeindex",
+				"app/views/home/index.html.erb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 318.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
